@@ -1,0 +1,31 @@
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\Rezervační systém.exe
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\Rezervační systém.deps.json
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\Rezervační systém.runtimeconfig.json
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\Rezervační systém.runtimeconfig.dev.json
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\Rezervační systém.dll
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\Rezervační systém.pdb
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\SQLite-net.dll
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+R:\_VA\Rezervační systém\Rezervační systém\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+R:\_VA\Rezervační systém\Rezervační systém\obj\Debug\netcoreapp3.1\Rezervační systém.csprojAssemblyReference.cache
+R:\_VA\Rezervační systém\Rezervační systém\obj\Debug\netcoreapp3.1\Rezervační systém.AssemblyInfoInputs.cache
+R:\_VA\Rezervační systém\Rezervační systém\obj\Debug\netcoreapp3.1\Rezervační systém.AssemblyInfo.cs
+R:\_VA\Rezervační systém\Rezervační systém\obj\Debug\netcoreapp3.1\Rezervační systém.csproj.CoreCompileInputs.cache
+R:\_VA\Rezervační systém\Rezervační systém\obj\Debug\netcoreapp3.1\Rezervační systém.csproj.CopyComplete
+R:\_VA\Rezervační systém\Rezervační systém\obj\Debug\netcoreapp3.1\Rezervační systém.dll
+R:\_VA\Rezervační systém\Rezervační systém\obj\Debug\netcoreapp3.1\Rezervační systém.pdb
+R:\_VA\Rezervační systém\Rezervační systém\obj\Debug\netcoreapp3.1\Rezervační systém.genruntimeconfig.cache
